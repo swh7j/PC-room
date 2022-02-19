@@ -1,4 +1,4 @@
-# EZEN PC ROOM
+# PC ROOM
 
 ## 1. 개요
 ### 1.1. 목적
