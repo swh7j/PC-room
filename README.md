@@ -8,7 +8,7 @@
 [6. Controller 구조도](https://github.com/yongbeomj/ezen-pc-zone#6-controller-%EA%B5%AC%EC%A1%B0%EB%8F%84)  
 [7. DB 구조도](https://github.com/yongbeomj/ezen-pc-zone#7-db-%EA%B5%AC%EC%A1%B0%EB%8F%84)  
 
-[![캡처](https://user-images.githubusercontent.com/87436495/143043843-5598ff63-e85a-46cb-a0b1-c45930ce6e6f.PNG)]
+[![캡처](https://user-images.githubusercontent.com/87436495/143043843-5598ff63-e85a-46cb-a0b1-c45930ce6e6f.PNG)
 
 ## 1. 개요
 ### 1.1. 목적
