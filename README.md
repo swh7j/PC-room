@@ -24,7 +24,7 @@
   
 ## 3. 개발 환경
 - 운영체제 : Windows10  
-- Teck Stack : Java, Javafx, Mysql, Eclipse, SceneBuilder, Git  
+- Teck Stack : Java, Javafx, My-sql,Tomcat, Eclipse, SceneBuilder, Git  
 
 ## 4. 화면 설계도  
 ![화면 구성도](https://user-images.githubusercontent.com/87436495/142762712-17313b47-4608-425c-9294-7437abf2d847.PNG)
