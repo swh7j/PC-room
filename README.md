@@ -13,6 +13,7 @@
 PC방에서 이용하는 순서에 맞게 프로그램을 개발하였으며, 3가지 프로젝트를 만들어 해당 기능을 구현하였음.</br> 
 
 # 시연영상
+(https://www.youtube.com/watch?v=xOvRwqN2yLM)
 
 
 ## 1. 개요
